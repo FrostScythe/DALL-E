@@ -139,6 +139,4 @@ For inquiries or connections, you can reach out to me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ayush-maheshwari-a6a041208)
 
 Feel free to contact me if you have questions, suggestions, or feedback about this project.
-```
 
-This revised README file provides a professional and organized overview of your project, making it easier for users and collaborators to understand, set up, and contribute to your AI image generating website.
